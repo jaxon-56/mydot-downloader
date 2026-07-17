@@ -1,0 +1,3 @@
+aiodot>=1.0.0
+aiohttp>=3.9.0
+certifi>=2025.0.0
