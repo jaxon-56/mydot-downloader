@@ -1,9 +1,1 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
 
-session.json
-.env
-.vscode/
-.idea/
